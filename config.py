@@ -41,7 +41,7 @@ class Config(object):
         self.epsilon = 1e-6
 
         # about the saver
-        self.save_period = 50
+        self.save_period = 1000
         self.save_dir = '/content/drive/MyDrive/Models/'
         self.summary_dir = '/content/drive/MyDrive/Summary/'
 
